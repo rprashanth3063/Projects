@@ -1,2 +1,2 @@
 # Projects
-this folder contains all my course projects
+This folder contains all my course projects
