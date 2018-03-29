@@ -1,3 +1,3 @@
 # Projects
 This folder contains all my course projects
-I have keen interest in network security. so most of my projects will be related to attacks and rectification only.
+I have keen interest in network security and Cloud Technologies. Most of my projects will be related to DOS/DDOS attacks/rectification Cloud related Projects.
